@@ -1,0 +1,31 @@
+import java.util.Scanner;
+class student1
+{
+    String usn;
+    String name;
+    String branch;
+    String phonenumber;
+    void read()
+    {
+        Scanner=new scanner(system.in);
+        system.out.println("enter usn");
+        usn=s.next();
+        system.out.println("enter name");
+        name=s.next();
+        system.out.println("enter branch");
+        branch=s.next();
+        system.out.println("enter phomenumber");
+        phonenumber=s.next();
+    }
+    void display
+    {
+        system.out.println("USN"+usn);
+        system.out.println("Name"+name);
+        system.out.println("Branch"+branch);
+        system.out.println("Phone number"+phonenumber);
+        system.our.println();
+    }
+}
+public class student
+{
+    public static void main(String[] arg…
